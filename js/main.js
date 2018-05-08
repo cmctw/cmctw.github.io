@@ -49,6 +49,7 @@
 	$.stellar({
 		responsive: true
 	});
-
-
+  
+  $("#included-menu").load("nav-menu.html"); 
+  $("#included-footer").load("nav-footer.html"); 
 })(jQuery);

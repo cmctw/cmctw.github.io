@@ -6,3 +6,11 @@ Font-awesome
 Jquery Stellar
 Images : Unsplash
 Goolgle fonts : Roboto, Source Sans Pro
+
+Images Sources: 
+https://www.maxpixel.net/Plant-Rain-Macro-Hands-Nature-Soil-Outdoors-1838659
+https://pixabay.com/en/green-landscape-tree-nature-soil-973596/
+https://www.maxpixel.net/Macro-Soil-Plant-Hands-1838658
+https://pixabay.com/en/tree-natur-nightsky-cloud-stars-736887/
+
+https://pixabay.com/get/e032b20a21f21c22d2524518a33219c8b66ae3d01bb6104595f8c970/green-973596_1280.jpg?attachment
