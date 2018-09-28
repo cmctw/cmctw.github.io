@@ -1544,4 +1544,7 @@ textarea.input {
 
 .tab { margin-left: 40px; }
 
-
+.service-item {
+    font-size: large;
+    font-weight: bolder;
+}
